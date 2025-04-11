@@ -498,7 +498,7 @@ def parse_help():
             Path is optimised as V approaches V*.
         'q' (Q Learning)
             **This command has little significance but is interesting to see.
-             It can be thought of as an exploitation stage, although there is
+             It can be thought of as an exploitation phase, although there is
              no guarantee that the goal will be found as it is not part of
              the Q Learning process.
             Agent will prioritise max(Q(state, actions)).

@@ -27,7 +27,7 @@ Program reads in map files.
 | X | Obstacle |
 | ~ | File separator for Target values |
 | Other | Empty |
-| [x,y,z] | List of possible target values.Each list corresponds with unique target. Ordered Top Left to Bottom Right|
+| [x,y,z] | List of possible target values. Each list corresponds with unique target. Ordered Top Left to Bottom Right|
 
 ## Example
 ```text
